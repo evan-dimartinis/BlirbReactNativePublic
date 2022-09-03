@@ -37,4 +37,12 @@ Blirb is an application that allows users to create groups and share their favor
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/60354368/188284128-17921381-e868-4ba6-a1be-f2b132593120.png">
 
 <h1>Code</h1>
-The code in this repository is all written by me and emits most of the redux store for security reasons as well as other miscellaneous files. This app was built and tested locally using expo and beta tested using testflight. Because the codebase was completely mine, standards are not adhered to.
+The code in this repository is all written by me and emits most of the redux store as well as other miscellaneous files for security reasons. This app was built and tested locally using expo and alpha tested using testflight. 
+
+API connection and state handling with Redux Thunk
+
+Custom Components used for List Items and re-used interfaces
+
+Multiple navigator types used to create application layout
+
+In the end we did not pursue this project any further but were very happy with what we produced and learned.
