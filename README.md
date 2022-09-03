@@ -35,3 +35,6 @@ Blirb is an application that allows users to create groups and share their favor
 <img width="305" alt="image" src="https://user-images.githubusercontent.com/60354368/188283961-c9c22099-7b9d-4b78-af5e-35c64bc144a6.png">
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/60354368/188284021-d8ad3307-da6e-4a93-b92f-978d8c3fbf78.png">
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/60354368/188284128-17921381-e868-4ba6-a1be-f2b132593120.png">
+
+<h1>Code</h1>
+The code in this repository is all written by me and emits most of the redux store for security reasons as well as other miscellaneous files. This app was built and tested locally using expo and beta tested using testflight. Because the codebase was completely mine, standards are not adhered to.
