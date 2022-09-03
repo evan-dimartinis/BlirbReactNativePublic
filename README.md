@@ -11,7 +11,7 @@ Blirb is an application that allows users to create groups and share their favor
   </li>
   
   <li>
-    write reviews and share with friends
+    Write reviews and share with friends
   </li>
   
   <li>
