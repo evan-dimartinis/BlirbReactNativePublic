@@ -26,3 +26,6 @@ Blirb is an application that allows users to create groups and share their favor
     Like/Comment on posts
   </li>
 </ul>
+
+<h1>Screenshots</h1>
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/60354368/188283823-7c64bcc6-45b2-4071-8c88-077f06e4b6ac.png">
