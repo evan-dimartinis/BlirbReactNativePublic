@@ -28,4 +28,6 @@ Blirb is an application that allows users to create groups and share their favor
 </ul>
 
 <h1>Screenshots</h1>
+<img width="305" alt="Screen Shot 2022-09-03 at 2 31 12 PM" src="https://user-images.githubusercontent.com/60354368/188283866-fa48617d-1f66-488a-837e-192958eefbad.png">
+
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/60354368/188283823-7c64bcc6-45b2-4071-8c88-077f06e4b6ac.png">
